@@ -231,3 +231,88 @@ a {
     background-color: rgb(254, 251, 236);
 
 }
+
+.heading {
+    padding: 50px 50px;
+    margin: 50px;
+    display: flex;
+    justify-content: left;
+}
+
+.sec4 {
+    display: flex;
+}
+
+.half-width h1 {
+    font-size: 50px;
+    padding-left: 80px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 15px;
+}
+
+.half-width img {
+    width: 100%;
+    padding-right: 80px;
+
+}
+
+.half-width p {
+    padding-left: 80px;
+}
+
+.half-width button {
+    padding: 10px 40px;
+    display: flex;
+}
+
+.b1 {
+    padding-right: 200px;
+}
+
+.sec5 {
+    display: flex;
+}
+
+.half-width h1 {
+    font-size: 50px;
+    padding-right: 80px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 15px;
+}
+
+.half-width img {
+    width: 100%;
+    padding-left: 80px;
+
+}
+
+.half-width p {
+    padding-right: 80px;
+}
+
+.half-width button {
+    padding: 10px 40px;
+    display: flex;
+}
+
+.sec6 {
+    padding-top: 80px;
+}
+
+.updates h1 {
+    font-size: 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.p6 p {
+    justify-content: center;
+    display: flex;
+    padding: 5px 50px;
+}
