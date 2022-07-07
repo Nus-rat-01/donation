@@ -167,5 +167,67 @@ button {
 
 a {
     text-decoration: none;
+}
+
+.donate-plan {
+    padding: 100px 160px;
+}
+
+.donate-plan {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 50px;
+    padding: 30px 100px;
+}
+
+.para {
+    justify-content: center;
+    align-items: center;
+}
+
+.para p {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 15px 50ppx;
+}
+
+
+.cards {
+    padding: 60px;
+    margin-left: 70px;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+
+
+}
+
+.card-description {
+    padding: 40px 20px;
+}
+
+.food {
+    margin: 30px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(234, 234, 234);
+
+}
+
+.shelter {
+    margin: 30px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(254, 242, 242);
+
+}
+
+.education {
+    margin: 30px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(254, 251, 236);
 
 }
