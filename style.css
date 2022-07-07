@@ -92,3 +92,80 @@ a {
     padding: 20px 5px;
     margin: auto;
 }
+
+.donate {
+    padding: 100px 160px;
+}
+
+.donate h1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 50px;
+}
+
+.donate p {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 5px 15px;
+    margin: 5px;
+}
+
+.Donate-description {
+    padding: 2px;
+    margin: 10px;
+}
+
+.money-amount {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.money-amount li {
+    list-style: none;
+    margin: 50px;
+    padding: 50;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(130, 129, 129);
+}
+
+.fix {
+    background: rgb(253, 234, 198);
+    border: 20px;
+    border-radius: 15px;
+    padding: 50px 50px;
+    margin: 5px;
+    border-color: aquamarine;
+}
+
+.Other-amount {
+    color: rgb(167, 167, 167);
+}
+
+.line {
+    width: 1200px;
+    height: 2px;
+    background-color: rgb(167, 167, 167);
+}
+
+.butt2 {
+    padding: 10px 530px;
+    margin: 5px;
+}
+
+button {
+    background-color: rgb(249, 193, 90);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+
+a {
+    text-decoration: none;
+
+}
