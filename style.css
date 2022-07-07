@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.manu-container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(249, 193, 90);
+    padding: 10px;
+    color: whitesmoke;
+
+}
+
+.menu-item {
+    display: flex;
+}
+
+.menu-item li {
+    list-style: none;
+    margin: 7px;
+    padding: 20;
+    font-size: 15px;
+}
+
+.menu-item li:hover {
+    color: aqua;
+    cursor: pointer;
+
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-image: url(images/donation13.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.banner-container {
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+
+.banner-description h1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+}
+
+.banner-description p {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+button {
+    background-color: rgb(249, 193, 90);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-color: rgb(249, 193, 90);
+    font-weight: 700;
+
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+.butt {
+    padding: 10px 170px;
+    margin: 15px;
+}
+
+.butt-deco {
+    padding: 20px 5px;
+    margin: auto;
+}
